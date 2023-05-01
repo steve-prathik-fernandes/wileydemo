@@ -1,7 +1,0 @@
-lib/*.lib
-
-log/
-
-lib/my_*_lib.lib
-
-*.env
