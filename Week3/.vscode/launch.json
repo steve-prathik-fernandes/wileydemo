@@ -1,0 +1,224 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "ShoppingProject/AdminPackage.Main",
+            "projectName": "ShoppingProject"
+        },
+        {
+            "type": "java",
+            "name": "Login",
+            "request": "launch",
+            "mainClass": "ShoppingProject/LoginPackage.Login",
+            "projectName": "ShoppingProject"
+        },
+        {
+            "type": "java",
+            "name": "UserMain",
+            "request": "launch",
+            "mainClass": "ShoppingProject/UserPackage.UserMain",
+            "projectName": "ShoppingProject"
+        },
+        {
+            "type": "java",
+            "name": "Student",
+            "request": "launch",
+            "mainClass": "Week3/Assignment.Student",
+            "projectName": "Week3"
+        },
+        {
+            "type": "java",
+            "name": "ArrayCheck",
+            "request": "launch",
+            "mainClass": "Week3/CollectionInfo.ArrayCheck",
+            "projectName": "Week3"
+        },
+        {
+            "type": "java",
+            "name": "CollectionNeed",
+            "request": "launch",
+            "mainClass": "Week3/CollectionInfo.CollectionNeed",
+            "projectName": "Week3"
+        },
+        {
+            "type": "java",
+            "name": "CompareClass",
+            "request": "launch",
+            "mainClass": "Week3/CollectionInfo.CompareClass",
+            "projectName": "Week3"
+        },
+        {
+            "type": "java",
+            "name": "Comparision",
+            "request": "launch",
+            "mainClass": "Week3/CollectionInfo.Comparision",
+            "projectName": "Week3"
+        },
+        {
+            "type": "java",
+            "name": "CreateArrayListEx",
+            "request": "launch",
+            "mainClass": "Week3/CollectionInfo.CreateArrayListEx",
+            "projectName": "Week3"
+        },
+        {
+            "type": "java",
+            "name": "CursorClass",
+            "request": "launch",
+            "mainClass": "Week3/CollectionInfo.CursorClass",
+            "projectName": "Week3"
+        },
+        {
+            "type": "java",
+            "name": "CustomArrayList",
+            "request": "launch",
+            "mainClass": "Week3/CollectionInfo.CustomArrayList",
+            "projectName": "Week3"
+        },
+        {
+            "type": "java",
+            "name": "ListIteratorPrg",
+            "request": "launch",
+            "mainClass": "Week3/CollectionInfo.ListIteratorPrg",
+            "projectName": "Week3"
+        },
+        {
+            "type": "java",
+            "name": "MapClasses",
+            "request": "launch",
+            "mainClass": "Week3/CollectionInfo.MapClasses",
+            "projectName": "Week3"
+        },
+        {
+            "type": "java",
+            "name": "QueueClass",
+            "request": "launch",
+            "mainClass": "Week3/CollectionInfo.QueueClass",
+            "projectName": "Week3"
+        },
+        {
+            "type": "java",
+            "name": "SetClass",
+            "request": "launch",
+            "mainClass": "Week3/CollectionInfo.SetClass",
+            "projectName": "Week3"
+        },
+        {
+            "type": "java",
+            "name": "SetHeadSet",
+            "request": "launch",
+            "mainClass": "Week3/CollectionInfo.SetHeadSet",
+            "projectName": "Week3"
+        },
+        {
+            "type": "java",
+            "name": "StackPrg",
+            "request": "launch",
+            "mainClass": "Week3/CollectionInfo.StackPrg",
+            "projectName": "Week3"
+        },
+        {
+            "type": "java",
+            "name": "TreeMapClass",
+            "request": "launch",
+            "mainClass": "Week3/CollectionInfo.TreeMapClass",
+            "projectName": "Week3"
+        },
+        {
+            "type": "java",
+            "name": "VectorClass",
+            "request": "launch",
+            "mainClass": "Week3/CollectionInfo.VectorClass",
+            "projectName": "Week3"
+        },
+        {
+            "type": "java",
+            "name": "BinaryTree",
+            "request": "launch",
+            "mainClass": "Week3/DataStructures.BinaryTree",
+            "projectName": "Week3"
+        },
+        {
+            "type": "java",
+            "name": "LinkedListClass",
+            "request": "launch",
+            "mainClass": "Week3/DataStructures.LinkedListClass",
+            "projectName": "Week3"
+        },
+        {
+            "type": "java",
+            "name": "QueueClass(1)",
+            "request": "launch",
+            "mainClass": "Week3/DataStructures.QueueClass",
+            "projectName": "Week3"
+        },
+        {
+            "type": "java",
+            "name": "StackClass",
+            "request": "launch",
+            "mainClass": "Week3/DataStructures.StackClass",
+            "projectName": "Week3"
+        },
+        {
+            "type": "java",
+            "name": "grade",
+            "request": "launch",
+            "mainClass": "Week3/DataStructures.grade",
+            "projectName": "Week3"
+        },
+        {
+            "type": "java",
+            "name": "BIFunctionClass",
+            "request": "launch",
+            "mainClass": "Week3/Lambda.BIFunctionClass",
+            "projectName": "Week3"
+        },
+        {
+            "type": "java",
+            "name": "BuiltInFunction",
+            "request": "launch",
+            "mainClass": "Week3/Lambda.BuiltInFunction",
+            "projectName": "Week3"
+        },
+        {
+            "type": "java",
+            "name": "BuiltInPredicate",
+            "request": "launch",
+            "mainClass": "Week3/Lambda.BuiltInPredicate",
+            "projectName": "Week3"
+        },
+        {
+            "type": "java",
+            "name": "FunctionalInterfaceClass",
+            "request": "launch",
+            "mainClass": "Week3/Lambda.FunctionalInterfaceClass",
+            "projectName": "Week3"
+        },
+        {
+            "type": "java",
+            "name": "LambdaClass",
+            "request": "launch",
+            "mainClass": "Week3/Lambda.LambdaClass",
+            "projectName": "Week3"
+        },
+        {
+            "type": "java",
+            "name": "MethodReference",
+            "request": "launch",
+            "mainClass": "Week3/Lambda.MethodReference",
+            "projectName": "Week3"
+        }
+    ]
+}
